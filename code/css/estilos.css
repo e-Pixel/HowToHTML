@@ -1,6 +1,25 @@
 body {
-	background:#000000;
-	color:#fff;
+	background:white;
+	color:black;
+	}
+h2 {
+	color:red;
+}
+	h1 {
+		font-size:50px;
+		color:#359cf5;
+	}
+		h2 {
+		font-size:35px;
+	}
+	p {
+		color:gray;
+	}
+	a {
+		color:blue;
+	}
+	p a{
+		color:green;
 	}
 	
 /* Contenido, prueba. */ 
